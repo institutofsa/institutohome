@@ -78,3 +78,12 @@ body {
 .online-class-button:hover {
     background-color: #45a049; /* Cor ao passar o mouse */
 }
+
+.footer {
+    background-color: #f1f1f1; /* Cor de fundo do rodapé */
+    text-align: center; /* Alinhamento centralizado */
+    padding: 10px 0; /* Espaçamento interno */
+    margin-top: 20px; /* Margem superior */
+    font-size: 0.9em; /* Tamanho da fonte do rodapé */
+    color: #666; /* Cor do texto */
+}
